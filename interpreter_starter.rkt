@@ -1,7 +1,12 @@
 #lang racket
 (provide (all-defined-out))
 
-; Chalondra Jewell, Andrew Zauner
+; Racket Interpreter
+; Andrew Zauner
+
+; Use REPL to initiate the read-eval-print-loop to interact with the interpreter
+; function_test.rkt provides test cases for all of the functionality of the interpreter
+; Have fun exploring!
 
 ;; Variable bindings  
 
